@@ -8,7 +8,7 @@ Destroy Object: `workspace.<object>:Destroy()`<br>
 Changing Text Value: `game.ReplicatedStorage.Text.Value = "TextHere"`<br><br>
 
 == Animation/Audio Clips ==<br>
-- Operation Strike Animation/Audio -<br>
+-- Operation Strike Animation/Audio --<br>
 CrystalCharge Audio: `game.Workspace.EventSounds.CrystalChargeUp:Play()`<br>
 BeaconBeam Animation: `game.Workspace.BeaconBeam.Enabled = true`<br>
 
