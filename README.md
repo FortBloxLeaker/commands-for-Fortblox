@@ -8,7 +8,7 @@ Destroy Object: `workspace.<object>:Destroy()`<br>
 Changing Text Value: `game.ReplicatedStorage.Text.Value = "TextHere"` (Info: This does not work without enabling the ReplicatedStorage Value. Which I do not have)<br>
 Kick Player Script: `for index, player in pairs(game.Players:GetPlayers()) do -- go thru every single player
 	player:Kick("Thanks for watching the Operation Strike Event, We will now go under maintenance to fix the destruction as much as we can") -- kick the player
-end -- end the for loop`
+end -- end the for loop` (Info: This one was ripped from the StrikeDestroyer Script **Operation Strike**)
 <br><br>
 == Animation/Audio Clips ==<br>
 -- Operation Strike Animation/Audio --<br>
