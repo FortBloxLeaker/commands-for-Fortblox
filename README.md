@@ -22,6 +22,12 @@ Pylon Rise: `game.Workspace.EventSounds.PylonRise:Play()`<br>
 BeamShot #4: `game.Workspace.EventSounds.Beamshot4:Play()`<br>
 Saturation Sounds: `game.Workspace.EventSounds.SaturationSound:Play()`<br>
 Rift Sound: `game.Workspace.LiveEventSounds.RiftSound:Play()`<br>
+<br><br>
+== Effects ==<br>
+-- Operation Strike Effects --<br>
+Color Correction: `game.Lighting.ColorCorrection.Brightness = precent`<br>
+Don't Delete: `game.Lighting.dontdelete.Brightness = precent`<br>
+<br><br>
 
 
 
